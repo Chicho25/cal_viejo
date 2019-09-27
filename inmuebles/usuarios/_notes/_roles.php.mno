@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID_ROLE;datatype:int,name:NOMBRE_ROLE;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ID_MENU;datatype:int,name:DESCRIPCION;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:ID_MENU;datatype:int,name:DESCRIPCION;datatype:string,name:ID_GRUPO;datatype:int,name:NIVEL;datatype:int,name:ORDEN;datatype:int,name:LINK;datatype:string,name:PARAMETROS;datatype:string,name:COLOR_HABILITADO;datatype:string,name:COLOR_DESHABILITADO;datatype:string,name:TIME_STAMP;datatype:timestamp" />
+</info>

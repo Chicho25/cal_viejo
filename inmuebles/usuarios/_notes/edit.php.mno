@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rst_edit_usuarios" value="name:ID_USUARIO;datatype:int,name:ALIAS;datatype:string,name:PASSWORD;datatype:string,name:NOMBRES;datatype:string,name:APELLIDOS;datatype:string,name:CARGO;datatype:string,name:NIVEL;datatype:int,name:ID_ROLE;datatype:int,name:ACTIVO;datatype:int" />
+	<infoitem key="UD_rst_role" value="name:ID_ROLE;datatype:int,name:NOMBRE_ROLE;datatype:string,name:DESCRIPCION_COMPLETA;datatype:string" />
+</info>

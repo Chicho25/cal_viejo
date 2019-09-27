@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rst_proveedores" value="name:ID_PARTIDA;datatype:int,name:ID_DOCUMENTO;datatype:int,name:ID_PROVEEDOR;datatype:int,name:ID_PAGO;datatype:int,name:PROVEEDOR;datatype:string,name:BENEFICIARIOS;datatype:blob,name:VENDEDOR;datatype:int,name:COMISION_VENTA;datatype:int,name:DESCRIPCION_PARTIDA;datatype:string,name:DESCRIPCION_COMPLETA;datatype:string,name:DESCRIPCION_CORTA;datatype:string,name:ID_TIPO_PAGO;datatype:int,name:TIPO_PAGO;datatype:string,name:AFECTA_BANCO;datatype:int,name:NUMERO_PAGO;datatype:string,name:FECHA;datatype:string,name:FECHA_DATE;datatype:date,name:MONTO_DOCUMENTO;datatype:real,name:MONTO_PAGADO;datatype:real,name:DESCRIPCION_DOCUMENTO;datatype:string,name:DESCRIPCION_PAGO;datatype:string,name:COD_PROYECTO;datatype:string,name:NOMBRE_PROYECTO;datatype:string,name:ID_MOV_BANCO_CAJA;datatype:int,name:ID_CUENTA_BANCARIA;datatype:int,name:TIME_STAMP;datatype:timestamp" />
+</info>

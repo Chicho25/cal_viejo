@@ -1,0 +1,32 @@
+[16-Jun-2011 12:11:42] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/add.php on line 285
+[16-Jun-2011 12:14:51] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/add.php on line 285
+[16-Jun-2011 12:18:21] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/add.php on line 286
+[16-Jun-2011 12:19:40] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/add.php on line 286
+[16-Jun-2011 13:33:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:3) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[16-Jun-2011 13:33:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:3) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[21-Jun-2011 14:26:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:3) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[20-Jul-2011 16:38:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:83) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[20-Jul-2011 16:39:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:83) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[20-Jul-2011 16:42:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:83) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[20-Jul-2011 16:44:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/_cheque/print.php:1) in /home/grupocal/public_html/sistema/include/fpdf.php on line 1017
+[14-Nov-2011 15:34:07] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 38
+[14-Nov-2011 15:34:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 39
+[14-Nov-2011 15:59:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 38
+[14-Nov-2011 15:59:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 39
+[14-Nov-2011 16:02:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 38
+[14-Nov-2011 16:02:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 39
+[14-Nov-2011 16:06:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 38
+[14-Nov-2011 16:06:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 39
+[19-Dec-2011 09:38:17] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[28-Dec-2011 13:36:02] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[28-Dec-2011 13:38:11] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[29-Dec-2011 16:07:12] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[30-Dec-2011 11:55:16] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[11-Jan-2012 14:55:29] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[13-Jan-2012 16:24:33] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[13-Jan-2012 16:29:25] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[14-Jan-2012 09:48:05] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[23-Jan-2012 08:58:17] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[30-Jan-2012 16:30:05] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_cheque/_add.php on line 73
+[23-Feb-2012 12:42:14] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/sistema/Connections/conexion.php on line 9
+[23-Feb-2012 12:42:15] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/sistema/Connections/conexion.php on line 9

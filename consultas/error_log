@@ -1,0 +1,674 @@
+[25-Nov-2010 06:56:55] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 06:56:55] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:34] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:34] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:36] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:36] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:41] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:41] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:51] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:33:51] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:34:00] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Nov-2010 12:34:00] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[01-Dec-2010 08:57:11] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[01-Dec-2010 08:57:11] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[01-Dec-2010 08:57:13] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[01-Dec-2010 08:57:13] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:38:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:39:18] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:50:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:52:49] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:52:56] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:52:57] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:52:59] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:53:00] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:53:04] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[13-Dec-2010 19:53:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 08:14:17] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 08:14:17] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:14:17] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:15:15] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:55:00] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:55:59] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:56:04] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:57:19] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 08:57:43] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:57:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:57:45] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 08:58:35] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:58:39] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:58:40] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:58:42] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:58:42] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:58:43] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 08:58:43] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:06:24] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:15:12] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:31:17] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:31:33] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:38:34] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:39:32] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:40:31] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:40:44] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:40:47] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:41:46] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:42:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:43:17] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:44:51] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:45:07] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:47:11] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:52:36] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:52:36] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:56:26] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:57:48] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:59:01] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:59:21] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 09:59:21] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 09:59:22] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 10:03:39] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:05:39] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:07:22] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 10:09:36] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:16:57] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:21:02] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:24:11] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:24:11] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 10:34:37] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:37:33] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:38:12] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:38:12] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 10:38:48] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:38:48] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 10:39:39] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:49:59] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:49:59] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 10:50:02] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 10:53:38] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:00:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:00:10] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:05:06] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:07:04] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:10:33] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:12:19] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:15:48] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:18:48] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:24:12] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:24:27] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:25:38] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:26:02] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:29:16] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:31:59] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:32:01] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:32:01] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:32:03] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:32:08] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:36:10] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:36:16] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:36:16] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:36:17] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:38:56] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:39:14] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 11:41:12] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:44:48] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:46:41] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 11:50:42] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 12:17:32] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 12:50:46] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:20:37] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:24:39] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:24:46] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:24:52] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:24:57] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:26:30] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:31:10] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:34:03] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 13:42:08] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 14:03:27] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 14:05:04] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 14:10:30] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:11:05] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 75
+[14-Dec-2010 14:19:26] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[14-Dec-2010 14:36:14] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 16:20:04] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 70
+[14-Dec-2010 16:20:04] PHP Warning:  Division by zero in /home/grupocal/public_html/sistema/consultas/grafica.php on line 71
+[27-Dec-2010 17:28:23] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 37
+[27-Dec-2010 17:28:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 38
+[27-Dec-2010 17:29:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 37
+[27-Dec-2010 17:29:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 38
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 226
+[30-Dec-2010 10:45:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/consultas/suma.php on line 227
+[21-Feb-2011 12:13:08] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 12:13:08] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 16:10:07] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 16:10:07] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 16:17:38] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 16:17:38] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Feb-2011 11:54:54] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:05] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:06] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:06] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:06] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:06] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:06] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:07:06] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:16:32] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:16:32] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:06] PHP Fatal error:  Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:06] PHP Fatal error:  Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:06] PHP Fatal error:  Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:06] PHP Fatal error:  Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:16] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 11:09:16] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:25] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:28] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:29] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:39] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:40] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:46] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[18-Mar-2011 13:00:47] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:25] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:25] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[28-Mar-2011 14:27:26] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Apr-2011 13:12:16] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Apr-2011 13:12:16] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[26-Apr-2011 18:45:16] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/include/menu.php on line 119
+[12-Sep-2011 14:22:34] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Sep-2011 14:22:34] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Sep-2011 15:46:14] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Sep-2011 15:46:15] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:31] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:43] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:43] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:43] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:43] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:44] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:44] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:44] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:44] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:18:57] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:07] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[12-Oct-2011 13:19:24] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[11-Nov-2011 11:16:28] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[11-Nov-2011 11:16:28] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[16-Dec-2011 13:05:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so: cannot make segment writable for relocation: Cannot allocate memory in Unknown on line 0

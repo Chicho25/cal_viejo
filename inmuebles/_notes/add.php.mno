@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rst_tipo" value="name:ID_INMUEBLES_TIPO;datatype:int,name:NOMBRE;datatype:string,name:TIME_STAMP;datatype:timestamp" />
+	<infoitem key="UD_rst_grupo" value="name:ID_INMUEBLES_GRUPO;datatype:int,name:NOMBRE;datatype:string,name:COD_PROYECTOS_MASTER;datatype:string,name:TIME_STAMP;datatype:timestamp" />
+</info>

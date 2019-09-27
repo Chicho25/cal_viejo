@@ -1,0 +1,17 @@
+[27-Apr-2011 09:26:43] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 138
+[27-Apr-2011 09:28:02] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 138
+[27-Apr-2011 10:48:55] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 207
+[27-Apr-2011 10:55:05] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 10:55:38] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 10:56:56] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 11:09:14] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 11:13:38] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 11:13:49] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180
+[27-Apr-2011 11:14:49] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 11:14:53] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180
+[27-Apr-2011 11:14:55] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180
+[27-Apr-2011 11:15:19] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180
+[27-Apr-2011 11:15:30] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180
+[27-Apr-2011 11:15:51] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/index.php on line 176
+[27-Apr-2011 11:15:55] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180
+[27-Apr-2011 11:16:03] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/_m_cuentas/edit.php on line 180

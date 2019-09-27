@@ -1,0 +1,36 @@
+[21-Feb-2011 16:27:10] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 16:27:10] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Feb-2011 10:16:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[23-Dec-2011 12:29:55] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[23-Dec-2011 14:14:24] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[28-Dec-2011 10:53:35] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[28-Dec-2011 10:53:47] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[28-Dec-2011 10:54:05] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[28-Dec-2011 10:59:01] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[28-Dec-2011 11:02:07] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[29-Dec-2011 07:08:17] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[29-Dec-2011 07:09:03] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[29-Dec-2011 09:25:17] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[29-Dec-2011 10:22:02] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[29-Dec-2011 10:22:22] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[30-Dec-2011 10:26:33] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[30-Dec-2011 10:29:21] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[30-Dec-2011 10:32:28] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[30-Dec-2011 10:53:06] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[30-Dec-2011 13:57:28] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[30-Dec-2011 14:45:39] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[03-Jan-2012 06:42:42] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[03-Jan-2012 06:45:27] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[03-Jan-2012 07:18:38] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[04-Jan-2012 09:47:30] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[04-Jan-2012 09:49:15] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[04-Jan-2012 09:52:08] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[04-Jan-2012 09:52:27] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[04-Jan-2012 09:58:52] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 06:46:26] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 06:46:55] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 06:49:01] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 06:49:07] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 06:50:31] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 06:55:49] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53
+[09-Feb-2012 07:07:29] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_doc_venta_listado/_menu.php on line 53

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:COD_PROYECTO;datatype:string,name:NOMBRE_PROYECTO;datatype:string,name:ID_GRUPO;datatype:int,name:NOMBRE_GRUPO;datatype:string,name:ID_INMUEBLE;datatype:int,name:CODIGO_INMUEBLE;datatype:string,name:NOMBRE_INMUEBLE;datatype:string,name:HABITACIONES;datatype:int,name:SANITARIOS;datatype:int,name:DEPOSITOS;datatype:int,name:ESTACIONAMIENTOS;datatype:int,name:ID_TIPO_INMUEBLE;datatype:int,name:NOMBRE_TIPO;datatype:string,name:AREA;datatype:real,name:PRECIO_REAL;datatype:real,name:DISPONIBLE;datatype:int,name:ID_PARTIDA_COMISION;datatype:int,name:VENDIDO;datatype:int" />
+</info>

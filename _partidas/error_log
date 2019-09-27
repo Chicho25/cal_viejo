@@ -1,0 +1,43 @@
+[12-Jan-2011 12:47:50] PHP Warning:  include(_columnas.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/grupocal/public_html/sistema/_partidas/listado.php on line 25
+[12-Jan-2011 12:47:50] PHP Warning:  include(_columnas.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/grupocal/public_html/sistema/_partidas/listado.php on line 25
+[12-Jan-2011 12:47:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '_columnas.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/grupocal/public_html/sistema/_partidas/listado.php on line 25
+[12-Jan-2011 12:48:25] PHP Warning:  include(_columnas.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/grupocal/public_html/sistema/_partidas/listado.php on line 25
+[12-Jan-2011 12:48:25] PHP Warning:  include(_columnas.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/grupocal/public_html/sistema/_partidas/listado.php on line 25
+[12-Jan-2011 12:48:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '_columnas.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/grupocal/public_html/sistema/_partidas/listado.php on line 25
+[21-Feb-2011 16:09:41] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[21-Feb-2011 16:09:41] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/grupocal/public_html/Connections/conexion.php on line 9
+[22-Dec-2011 15:34:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/include/dinamic_menu.php on line 13
+[22-Dec-2011 15:35:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/include/dinamic_menu.php on line 13
+[24-Dec-2011 17:14:30] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[24-Dec-2011 17:14:52] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[29-Dec-2011 16:01:45] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 11:37:38] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 11:40:51] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 11:43:21] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 12:04:09] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 12:17:03] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 12:22:41] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 12:23:22] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[03-Jan-2012 12:27:22] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:28:21] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:28:26] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:28:38] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:29:05] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:29:09] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:30:02] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 77
+[03-Jan-2012 12:31:23] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:37:03] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[03-Jan-2012 12:37:07] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[12-Jan-2012 15:28:25] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[25-Jan-2012 11:59:44] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Jan-2012 11:59:44] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[01-Feb-2012 10:19:31] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[01-Feb-2012 10:19:41] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[02-Feb-2012 13:59:25] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[06-Feb-2012 19:43:10] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[06-Feb-2012 19:43:17] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[07-Feb-2012 04:08:12] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[07-Feb-2012 04:08:27] PHP Fatal error:  Cannot redeclare miip() (previously declared in /home/grupocal/public_html/sistema/include/funciones.php:3) in /home/grupocal/public_html/sistema/include/funciones.php on line 4
+[07-Feb-2012 04:14:32] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[07-Feb-2012 04:15:03] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76
+[07-Feb-2012 04:16:44] PHP Fatal error:  Call to undefined function  validador() in /home/grupocal/public_html/sistema/_partidas/_menu.php on line 76

@@ -1,0 +1,26 @@
+[19-Dec-2011 09:53:37] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 57
+[19-Dec-2011 09:53:37] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 59
+[19-Dec-2011 09:58:00] PHP Warning:  include(../connections/conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/grupocal/public_html/sistema/usuarios/roles.php on line 9
+[19-Dec-2011 09:58:00] PHP Warning:  include(../connections/conexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/grupocal/public_html/sistema/usuarios/roles.php on line 9
+[19-Dec-2011 09:58:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../connections/conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/grupocal/public_html/sistema/usuarios/roles.php on line 9
+[19-Dec-2011 09:58:00] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 57
+[19-Dec-2011 09:58:00] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 59
+[19-Dec-2011 09:59:20] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 57
+[19-Dec-2011 09:59:20] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 59
+[20-Dec-2011 19:35:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 57
+[20-Dec-2011 19:35:08] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 59
+[13-Jan-2012 09:54:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 57
+[13-Jan-2012 09:54:16] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/roles.php on line 59
+[17-Jan-2012 13:37:37] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 30
+[17-Jan-2012 13:37:37] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 32
+[21-Jan-2012 08:12:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/usuarios/list.php:6) in /home/grupocal/public_html/sistema/usuarios/new.php on line 27
+[26-Jan-2012 10:21:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/usuarios/list.php:6) in /home/grupocal/public_html/sistema/usuarios/new.php on line 27
+[27-Jan-2012 12:14:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 30
+[27-Jan-2012 12:14:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 32
+[31-Jan-2012 11:22:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grupocal/public_html/sistema/usuarios/list.php:6) in /home/grupocal/public_html/sistema/usuarios/new.php on line 27
+[06-Feb-2012 13:56:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 30
+[06-Feb-2012 13:56:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 32
+[16-Feb-2012 16:58:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 30
+[16-Feb-2012 16:58:06] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 32
+[16-Feb-2012 16:59:30] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 30
+[16-Feb-2012 16:59:30] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/grupocal/public_html/sistema/usuarios/new.php on line 32

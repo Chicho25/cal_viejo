@@ -1,0 +1,2 @@
+[25-Jan-2012 11:59:41] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9
+[25-Jan-2012 11:59:41] PHP Fatal error:  User grupocal_root already has more than 'max_user_connections' active connections in /home/grupocal/public_html/Connections/conexion.php on line 9

@@ -1,0 +1,2 @@
+[22-Dec-2011 15:32:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/include/dinamic_menu.php on line 13
+[22-Dec-2011 15:33:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/grupocal/public_html/sistema/include/dinamic_menu.php on line 13

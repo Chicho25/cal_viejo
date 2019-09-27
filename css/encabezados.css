@@ -1,0 +1,27 @@
+@charset "utf-8";
+.Encabezados {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #1B3550;
+}
+.Campos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000;
+}
+
+.Opciones {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #000;
+}
+.Campos {
+	color: #000;
+	background-color: #FFF;
+}

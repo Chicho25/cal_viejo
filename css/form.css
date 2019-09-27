@@ -1,0 +1,65 @@
+body {
+	background-color: #e5e5e5;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.textos_form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+}
+.textos_ordenar{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #6b6b6b;
+
+	text-decoration: none;
+}
+.textos_ordenar_rojo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #00F;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.textos_form_derecha {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-align: right;
+}
+.titulo_formulario {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FFF;
+}
+body {
+	text-decoration: none;
+	
+}
+.atable{
+	border-collapse:collapse;
+	border:1px solid #AAA;
+	margin-left:10px;
+}
+.atable th{
+	border:1px solid #AAF;
+	background:#cccccc;
+	font-weight:bold;
+}
+.atable td{
+	padding:4px;
+	border:1px solid #AAF;
+}
+.oddRow{
+	background:#FFFFFF;
+}
+.evenRow{
+	background:#cccccc;
+}

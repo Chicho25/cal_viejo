@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_grupos" value="name:ID_ACCESO;datatype:int,name:ID_ROLE;datatype:int,name:ID_MENU;datatype:int,name:FORMULARIO_VIEW;datatype:int,name:FORMULARIO_INSERT;datatype:int,name:FORMULARIO_UPDATE;datatype:int,name:FORMULARIO_DELETE;datatype:int,name:FORMULARIO_OTHER;datatype:int" />
+	<infoitem key="UD_GHOST" value="name:ID_USUARIO;datatype:int,name:ID_ROLE;datatype:int,name:NOMBRE_ROLE;datatype:string,name:DESCRIPCION_COMPLETA_ROLE;datatype:string,name:ID_MENU;datatype:int,name:DESCRIPCION_MENU;datatype:string,name:ID_GRUPO_MENU;datatype:int,name:NIVEL_MENU;datatype:int,name:ORDEN_MENU;datatype:int,name:LINK_MENU;datatype:string,name:COLOR_HABILITADO_MENU;datatype:string,name:COLOR_DESHABILITADO_MENU;datatype:string,name:ID_ACCESO;datatype:int,name:FORMULARIO_VIEW;datatype:int,name:FORMULARIO_INSERT;datatype:int,name:FORMULARIO_UPDATE;datatype:int,name:FORMULARIO_DELETE;datatype:int,name:FORMULARIO_OTHER;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:ID_ROLE;datatype:int,name:NOMBRE_ROLE;datatype:string" />
+</info>

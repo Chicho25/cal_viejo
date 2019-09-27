@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstpro_cli" value="name:COD_TIPO;datatype:int,name:TIPO;datatype:string" />
+	<infoitem key="UD_rst_pro_cli" value="name:COD_TIPO;datatype:int,name:TIPO;datatype:string" />
+</info>

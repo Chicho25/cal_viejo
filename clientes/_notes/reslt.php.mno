@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rst_clientes" value="name:ID_PRO_CLI;datatype:int,name:CODIGO;datatype:string,name:COD_TIPO;datatype:int,name:TIPO;datatype:string,name:VENDEDOR;datatype:string,name:NOMBRE;datatype:string,name:ID_GRUPO;datatype:int,name:NOMBRE_GRUPO;datatype:string,name:CONTACTO;datatype:string,name:DOCUMENTOS;datatype:int,name:TIENE_CONTRATOS;datatype:int" />
+</info>

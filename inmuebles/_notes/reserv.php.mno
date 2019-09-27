@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID_PRO_CLI_MASTER;datatype:int,name:CODIGO;datatype:string,name:TIPO;datatype:int,name:NOMBRE;datatype:string,name:NACIONALIDAD;datatype:string,name:PROFESION;datatype:string,name:ESTADO_CIVIL;datatype:string,name:CONTACTO;datatype:string,name:ID_PRO_CLI_GRUPO;datatype:int,name:ID_TRIBUTARIA_CEDULA;datatype:string,name:VENDEDOR;datatype:int,name:BENEFICIARIOS;datatype:blob,name:DIRECCION;datatype:string,name:TELEFONO_FIJO_1;datatype:string,name:TELEFONO_FIJO_2;datatype:string,name:TELEFONO_MOVIL_1;datatype:string,name:TELEFONO_MOVIL_2;datatype:string,name:EMAIL_1;datatype:string,name:EMAIL_2;datatype:string,name:WEB_SITE;datatype:string,name:OBSERVACIONES;datatype:string,name:ID_UBICACION_GEOGRAFICA;datatype:int,name:TIME_STAMP;datatype:timestamp" />
+	<infoitem key="UD_Recordset2" value="name:ID_PRO_CLI_MASTER;datatype:int,name:NOMBRE;datatype:string" />
+	<infoitem key="UD_rstvendedores" value="name:ID_PRO_CLI_MASTER;datatype:int,name:NOMBRE;datatype:string" />
+</info>

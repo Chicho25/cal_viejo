@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_inmuebles" value="name:ID_INMUEBLE;datatype:int,name:NOMBRE_INMUEBLE;datatype:string" />
+</info>
